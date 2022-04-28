@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'EliceDigitalBaeumOTF';
+  font-weight: 300;
+  src: url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('woff2'), url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('woff'),
+    url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EliceDigitalBaeumOTF';
+  font-weight: 400;
+  src: url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('woff2'), url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('woff'),
+    url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'EliceDigitalBaeumOTF';
+  font-weight: 500;
+  src: url('./fonts/EliceDigitalBaeumOTF_Regular.otf') format('woff2');
+}
+
+@font-face {
+  font-family: 'EliceDigitalBaeumOTF';
+  font-weight: 700;
+  src: url('./fonts/EliceDigitalBaeumOTF_Bold.otf') format('woff2'), url('./fonts/EliceDigitalBaeumOTF_Bold.otf') format('woff'), url('./fonts/EliceDigitalBaeumOTF_Bold.otf') format('truetype');
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'EliceDigitalBaeumOTF', sans-serif;
+}
